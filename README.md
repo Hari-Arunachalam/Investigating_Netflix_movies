@@ -2,4 +2,4 @@
 Data analysis on Netflix_data.csv using python and observing trends from 1990
 
 
-![Image Description](Images/Figure1.png)
+![MasterHead](Images/Figure_1.png)
